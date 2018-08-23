@@ -39,9 +39,9 @@ enter_new_login="login"
 #新登录密码
 newpassword="111111"
 # 姓名
-name = "仝志钊"
+name = "***"
 # 身份证号码
-number = '610125198511194330'
+number = '******************'
 #点击下一步
 #click_next="next"
 
