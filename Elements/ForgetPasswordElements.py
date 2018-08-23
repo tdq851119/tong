@@ -19,7 +19,7 @@ click_forget="forget"
 enter_phone="verify"
 
 #手机号
-phone="18001120175"
+phone="***********"
 
 #点击获取验证码按钮
 click_getcode="getCode"
